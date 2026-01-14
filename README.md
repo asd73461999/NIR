@@ -1,4 +1,4 @@
-# Laser-drivenSpinel-type Ceramics Enabling NIR-II Light Sources for Penetration OpticalImaging Assisted by a Guided Filter Network Algorithm
+# Laser-driven Spinel-type Ceramics Enabling NIR-II Light Sources for Penetration OpticalImaging Assisted by a Guided Filter Network Algorithm
 doi: 10.1016/j.mattod.2025.10.019
 
 ref: C. Li et al. Materials Today 91 (2025) 196–203
