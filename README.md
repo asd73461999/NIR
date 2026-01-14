@@ -1,3 +1,6 @@
+# Laser-drivenSpinel-type Ceramics Enabling NIR-II Light Sources for Penetration OpticalImaging Assisted by a Guided Filter Network Algorithm
+doi: 10.1016/j.mattod.2025.10.019
+ref: C. Li et al. Materials Today 91 (2025) 196–203
 # NIR Image Processing
 
 A comprehensive toolkit for Near-Infrared (NIR) image processing, enhancement, and analysis. This project includes various image processing techniques specifically designed for NIR imagery, including edge detection, contrast enhancement, and quality assessment.
